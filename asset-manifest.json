@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/hoangngochung212/To-Do-List-React-App.git/static/css/main.abc1f53a.chunk.css",
+    "main.js": "/hoangngochung212/To-Do-List-React-App.git/static/js/main.a609b71e.chunk.js",
+    "main.js.map": "/hoangngochung212/To-Do-List-React-App.git/static/js/main.a609b71e.chunk.js.map",
+    "runtime-main.js": "/hoangngochung212/To-Do-List-React-App.git/static/js/runtime-main.381b1729.js",
+    "runtime-main.js.map": "/hoangngochung212/To-Do-List-React-App.git/static/js/runtime-main.381b1729.js.map",
+    "static/css/2.38960321.chunk.css": "/hoangngochung212/To-Do-List-React-App.git/static/css/2.38960321.chunk.css",
+    "static/js/2.ff2d17cd.chunk.js": "/hoangngochung212/To-Do-List-React-App.git/static/js/2.ff2d17cd.chunk.js",
+    "static/js/2.ff2d17cd.chunk.js.map": "/hoangngochung212/To-Do-List-React-App.git/static/js/2.ff2d17cd.chunk.js.map",
+    "static/js/3.90a68cc4.chunk.js": "/hoangngochung212/To-Do-List-React-App.git/static/js/3.90a68cc4.chunk.js",
+    "static/js/3.90a68cc4.chunk.js.map": "/hoangngochung212/To-Do-List-React-App.git/static/js/3.90a68cc4.chunk.js.map",
+    "index.html": "/hoangngochung212/To-Do-List-React-App.git/index.html",
+    "static/css/2.38960321.chunk.css.map": "/hoangngochung212/To-Do-List-React-App.git/static/css/2.38960321.chunk.css.map",
+    "static/css/main.abc1f53a.chunk.css.map": "/hoangngochung212/To-Do-List-React-App.git/static/css/main.abc1f53a.chunk.css.map",
+    "static/js/2.ff2d17cd.chunk.js.LICENSE.txt": "/hoangngochung212/To-Do-List-React-App.git/static/js/2.ff2d17cd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.381b1729.js",
+    "static/css/2.38960321.chunk.css",
+    "static/js/2.ff2d17cd.chunk.js",
+    "static/css/main.abc1f53a.chunk.css",
+    "static/js/main.a609b71e.chunk.js"
+  ]
+}
