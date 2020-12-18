@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/hoangngochung212.github.io/To-Do-List-React-App/static/css/main.abc1f53a.chunk.css",
-    "main.js": "/hoangngochung212.github.io/To-Do-List-React-App/static/js/main.a609b71e.chunk.js",
-    "main.js.map": "/hoangngochung212.github.io/To-Do-List-React-App/static/js/main.a609b71e.chunk.js.map",
-    "runtime-main.js": "/hoangngochung212.github.io/To-Do-List-React-App/static/js/runtime-main.f27411f4.js",
-    "runtime-main.js.map": "/hoangngochung212.github.io/To-Do-List-React-App/static/js/runtime-main.f27411f4.js.map",
-    "static/css/2.38960321.chunk.css": "/hoangngochung212.github.io/To-Do-List-React-App/static/css/2.38960321.chunk.css",
-    "static/js/2.ddc4c797.chunk.js": "/hoangngochung212.github.io/To-Do-List-React-App/static/js/2.ddc4c797.chunk.js",
-    "static/js/2.ddc4c797.chunk.js.map": "/hoangngochung212.github.io/To-Do-List-React-App/static/js/2.ddc4c797.chunk.js.map",
-    "static/js/3.90a68cc4.chunk.js": "/hoangngochung212.github.io/To-Do-List-React-App/static/js/3.90a68cc4.chunk.js",
-    "static/js/3.90a68cc4.chunk.js.map": "/hoangngochung212.github.io/To-Do-List-React-App/static/js/3.90a68cc4.chunk.js.map",
-    "index.html": "/hoangngochung212.github.io/To-Do-List-React-App/index.html",
-    "static/css/2.38960321.chunk.css.map": "/hoangngochung212.github.io/To-Do-List-React-App/static/css/2.38960321.chunk.css.map",
-    "static/css/main.abc1f53a.chunk.css.map": "/hoangngochung212.github.io/To-Do-List-React-App/static/css/main.abc1f53a.chunk.css.map",
-    "static/js/2.ddc4c797.chunk.js.LICENSE.txt": "/hoangngochung212.github.io/To-Do-List-React-App/static/js/2.ddc4c797.chunk.js.LICENSE.txt"
+    "main.css": "/To-Do-List-React-App/static/css/main.abc1f53a.chunk.css",
+    "main.js": "/To-Do-List-React-App/static/js/main.a609b71e.chunk.js",
+    "main.js.map": "/To-Do-List-React-App/static/js/main.a609b71e.chunk.js.map",
+    "runtime-main.js": "/To-Do-List-React-App/static/js/runtime-main.6b0991ed.js",
+    "runtime-main.js.map": "/To-Do-List-React-App/static/js/runtime-main.6b0991ed.js.map",
+    "static/css/2.38960321.chunk.css": "/To-Do-List-React-App/static/css/2.38960321.chunk.css",
+    "static/js/2.70de959e.chunk.js": "/To-Do-List-React-App/static/js/2.70de959e.chunk.js",
+    "static/js/2.70de959e.chunk.js.map": "/To-Do-List-React-App/static/js/2.70de959e.chunk.js.map",
+    "static/js/3.90a68cc4.chunk.js": "/To-Do-List-React-App/static/js/3.90a68cc4.chunk.js",
+    "static/js/3.90a68cc4.chunk.js.map": "/To-Do-List-React-App/static/js/3.90a68cc4.chunk.js.map",
+    "index.html": "/To-Do-List-React-App/index.html",
+    "static/css/2.38960321.chunk.css.map": "/To-Do-List-React-App/static/css/2.38960321.chunk.css.map",
+    "static/css/main.abc1f53a.chunk.css.map": "/To-Do-List-React-App/static/css/main.abc1f53a.chunk.css.map",
+    "static/js/2.70de959e.chunk.js.LICENSE.txt": "/To-Do-List-React-App/static/js/2.70de959e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f27411f4.js",
+    "static/js/runtime-main.6b0991ed.js",
     "static/css/2.38960321.chunk.css",
-    "static/js/2.ddc4c797.chunk.js",
+    "static/js/2.70de959e.chunk.js",
     "static/css/main.abc1f53a.chunk.css",
     "static/js/main.a609b71e.chunk.js"
   ]
